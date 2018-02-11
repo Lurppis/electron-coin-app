@@ -1,0 +1,22 @@
+{
+  "name": "electron-coin-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lurppis/electron-coin-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lurppis/electron-coin-app/issues"
+  },
+  "homepage": "https://github.com/Lurppis/electron-coin-app#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
